@@ -7,7 +7,7 @@
 You can install Chalk from PyPI using `pip`:
 
 ```bash
-pip install chalk
+pip install chalkx
 ```
 
 ## Usage
