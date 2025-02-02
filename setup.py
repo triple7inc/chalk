@@ -1,7 +1,7 @@
 from setuptools import setup,find_packages
 setup(
-    name="chalk",
-    version="0.1",
+    name="chalkx",
+    version="0.2",
     author="triple7inc",
     packages=find_packages(),
     description="A simple package to change text color in CMD prompt using ANSI escape codes",
